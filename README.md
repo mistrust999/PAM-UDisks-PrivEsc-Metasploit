@@ -58,3 +58,5 @@ This is the link to Qualys' original [Proof of Concept](https://cdn2.qualys.com/
 ## Disclaimer
 
 These modules are provided for educational and ethical penetration testing purposes only. Unauthorized use is strictly prohibited.
+
+**Disclaimer:** This README was generated with the assistance of AI
